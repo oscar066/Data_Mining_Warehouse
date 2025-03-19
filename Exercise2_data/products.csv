@@ -1,0 +1,267 @@
+PRODUCTCODE,PRODUCTLINE,MSRP,DEALSIZE
+ S10_1678   , Motorcycles     ,95, Small
+ S10_1678   , Motorcycles     ,95, Medium
+ S10_1678   , Motorcycles     ,95, Large
+ S10_1949   , Classic Cars    ,214, Medium
+ S10_1949   , Classic Cars    ,214, Large
+ S10_1949   , Classic Cars    ,214, Small
+ S10_2016   , Motorcycles     ,118, Medium
+ S10_2016   , Motorcycles     ,118, Small
+ S10_4698   , Motorcycles     ,193, Medium
+ S10_4698   , Motorcycles     ,193, Large
+ S10_4698   , Motorcycles     ,193, Small
+ S10_4757   , Classic Cars    ,136, Large
+ S10_4757   , Classic Cars    ,136, Medium
+ S10_4757   , Classic Cars    ,136, Small
+ S10_4962   , Classic Cars    ,147, Medium
+ S10_4962   , Classic Cars    ,147, Large
+ S10_4962   , Classic Cars    ,147, Small
+ S12_1099   , Classic Cars    ,194, Medium
+ S12_1099   , Classic Cars    ,194, Large
+ S12_1099   , Classic Cars    ,194, Small
+ S12_1108   , Classic Cars    ,207, Large
+ S12_1108   , Classic Cars    ,207, Medium
+ S12_1108   , Classic Cars    ,207, Small
+ S12_1666   , Trucks and Buses,136, Medium
+ S12_1666   , Trucks and Buses,136, Small
+ S12_1666   , Trucks and Buses,136, Large
+ S12_2823   , Motorcycles     ,150, Medium
+ S12_2823   , Motorcycles     ,150, Large
+ S12_2823   , Motorcycles     ,150, Small
+ S12_3148   , Classic Cars    ,151, Medium
+ S12_3148   , Classic Cars    ,151, Large
+ S12_3148   , Classic Cars    ,151, Small
+ S12_3380   , Classic Cars    ,117, Medium
+ S12_3380   , Classic Cars    ,117, Small
+ S12_3891   , Classic Cars    ,173, Medium
+ S12_3891   , Classic Cars    ,173, Large
+ S12_3891   , Classic Cars    ,173, Small
+ S12_3990   , Classic Cars    ,79, Medium
+ S12_3990   , Classic Cars    ,79, Small
+ S12_4473   , Trucks and Buses,118, Medium
+ S12_4473   , Trucks and Buses,118, Small
+ S12_4675   , Classic Cars    ,115, Medium
+ S12_4675   , Classic Cars    ,115, Small
+ S12_4675   , Classic Cars    ,115, Large
+ S18_1097   , Trucks and Buses,116, Medium
+ S18_1097   , Trucks and Buses,116, Small
+ S18_1097   , Trucks and Buses,116, Large
+ S18_1129   , Classic Cars    ,141, Medium
+ S18_1129   , Classic Cars    ,141, Small
+ S18_1129   , Classic Cars    ,141, Large
+ S18_1342   , Vintage Cars    ,102, Medium
+ S18_1342   , Vintage Cars    ,102, Small
+ S18_1342   , Vintage Cars    ,102, Large
+ S18_1367   , Vintage Cars    ,53, Small
+ S18_1367   , Vintage Cars    ,53, Medium
+ S18_1589   , Classic Cars    ,124, Medium
+ S18_1589   , Classic Cars    ,124, Small
+ S18_1589   , Classic Cars    ,124, Large
+ S18_1662   , Planes          ,157, Medium
+ S18_1662   , Planes          ,157, Small
+ S18_1662   , Planes          ,157, Large
+ S18_1749   , Vintage Cars    ,170, Medium
+ S18_1749   , Vintage Cars    ,170, Small
+ S18_1749   , Vintage Cars    ,170, Large
+ S18_1889   , Classic Cars    ,77, Medium
+ S18_1889   , Classic Cars    ,77, Small
+ S18_1984   , Classic Cars    ,142, Medium
+ S18_1984   , Classic Cars    ,142, Large
+ S18_1984   , Classic Cars    ,142, Small
+ S18_2238   , Classic Cars    ,163, Medium
+ S18_2238   , Classic Cars    ,163, Large
+ S18_2238   , Classic Cars    ,163, Small
+ S18_2248   , Vintage Cars    ,60, Medium
+ S18_2248   , Vintage Cars    ,60, Small
+ S18_2248   , Vintage Cars    ,60, Large
+ S18_2319   , Trucks and Buses,122, Medium
+ S18_2319   , Trucks and Buses,122, Small
+ S18_2325   , Vintage Cars    ,127, Medium
+ S18_2325   , Vintage Cars    ,127, Small
+ S18_2325   , Vintage Cars    ,127, Large
+ S18_2432   , Trucks and Buses,60, Small
+ S18_2432   , Trucks and Buses,60, Medium
+ S18_2581   , Planes          ,84, Medium
+ S18_2581   , Planes          ,84, Small
+ S18_2625   , Motorcycles     ,60, Small
+ S18_2625   , Motorcycles     ,60, Medium
+ S18_2795   , Vintage Cars    ,168, Medium
+ S18_2795   , Vintage Cars    ,168, Large
+ S18_2795   , Vintage Cars    ,168, Small
+ S18_2870   , Classic Cars    ,132, Medium
+ S18_2870   , Classic Cars    ,132, Small
+ S18_2870   , Classic Cars    ,132, Large
+ S18_2949   , Vintage Cars    ,101, Small
+ S18_2949   , Vintage Cars    ,101, Medium
+ S18_2957   , Vintage Cars    ,62, Small
+ S18_2957   , Vintage Cars    ,62, Medium
+ S18_3029   , Ships           ,86, Medium
+ S18_3029   , Ships           ,86, Small
+ S18_3136   , Vintage Cars    ,104, Small
+ S18_3136   , Vintage Cars    ,104, Medium
+ S18_3140   , Vintage Cars    ,136, Medium
+ S18_3140   , Vintage Cars    ,136, Small
+ S18_3232   , Classic Cars    ,169, Medium
+ S18_3232   , Classic Cars    ,169, Large
+ S18_3232   , Classic Cars    ,169, Small
+ S18_3259   , Trains          ,100, Medium
+ S18_3259   , Trains          ,100, Small
+ S18_3278   , Classic Cars    ,80, Small
+ S18_3278   , Classic Cars    ,80, Medium
+ S18_3320   , Vintage Cars    ,99, Medium
+ S18_3320   , Vintage Cars    ,99, Small
+ S18_3320   , Vintage Cars    ,99, Large
+ S18_3482   , Classic Cars    ,146, Medium
+ S18_3482   , Classic Cars    ,146, Small
+ S18_3482   , Classic Cars    ,146, Large
+ S18_3685   , Classic Cars    ,141, Medium
+ S18_3685   , Classic Cars    ,141, Large
+ S18_3685   , Classic Cars    ,141, Small
+ S18_3782   , Motorcycles     ,62, Small
+ S18_3782   , Motorcycles     ,62, Medium
+ S18_3856   , Vintage Cars    ,105, Medium
+ S18_3856   , Vintage Cars    ,105, Small
+ S18_3856   , Vintage Cars    ,105, Large
+ S18_4027   , Classic Cars    ,143, Medium
+ S18_4027   , Classic Cars    ,143, Small
+ S18_4027   , Classic Cars    ,143, Large
+ S18_4409   , Vintage Cars    ,92, Small
+ S18_4409   , Vintage Cars    ,92, Medium
+ S18_4409   , Vintage Cars    ,92, Large
+ S18_4522   , Vintage Cars    ,87, Medium
+ S18_4522   , Vintage Cars    ,87, Small
+ S18_4600   , Trucks and Buses,121, Medium
+ S18_4600   , Trucks and Buses,121, Large
+ S18_4600   , Trucks and Buses,121, Small
+ S18_4668   , Vintage Cars    ,50, Small
+ S18_4668   , Vintage Cars    ,50, Medium
+ S18_4668   , Vintage Cars    ,50, Large
+ S18_4721   , Classic Cars    ,148, Medium
+ S18_4721   , Classic Cars    ,148, Small
+ S18_4721   , Classic Cars    ,148, Large
+ S18_4933   , Classic Cars    ,71, Small
+ S18_4933   , Classic Cars    ,71, Medium
+ S24_1046   , Classic Cars    ,73, Medium
+ S24_1046   , Classic Cars    ,73, Small
+ S24_1444   , Classic Cars    ,57, Small
+ S24_1444   , Classic Cars    ,57, Medium
+ S24_1578   , Motorcycles     ,112, Small
+ S24_1578   , Motorcycles     ,112, Medium
+ S24_1628   , Classic Cars    ,50, Small
+ S24_1628   , Classic Cars    ,50, Medium
+ S24_1785   , Planes          ,109, Small
+ S24_1785   , Planes          ,109, Medium
+ S24_1937   , Vintage Cars    ,33, Small
+ S24_1937   , Vintage Cars    ,33, Medium
+ S24_1937   , Vintage Cars    ,33, Large
+ S24_2000   , Motorcycles     ,76, Medium
+ S24_2000   , Motorcycles     ,76, Small
+ S24_2011   , Ships           ,122, Medium
+ S24_2011   , Ships           ,122, Small
+ S24_2022   , Vintage Cars    ,44, Small
+ S24_2022   , Vintage Cars    ,44, Medium
+ S24_2300   , Trucks and Buses,127, Medium
+ S24_2300   , Trucks and Buses,127, Small
+ S24_2300   , Trucks and Buses,127, Large
+ S24_2360   , Motorcycles     ,69, Small
+ S24_2360   , Motorcycles     ,69, Medium
+ S24_2766   , Classic Cars    ,90, Medium
+ S24_2766   , Classic Cars    ,90, Small
+ S24_2766   , Classic Cars    ,90, Large
+ S24_2840   , Classic Cars    ,35, Small
+ S24_2840   , Classic Cars    ,35, Medium
+ S24_2841   , Planes          ,68, Medium
+ S24_2841   , Planes          ,68, Small
+ S24_2887   , Classic Cars    ,117, Medium
+ S24_2887   , Classic Cars    ,117, Small
+ S24_2972   , Classic Cars    ,37, Small
+ S24_2972   , Classic Cars    ,37, Medium
+ S24_3151   , Vintage Cars    ,88, Medium
+ S24_3151   , Vintage Cars    ,88, Small
+ S24_3151   , Vintage Cars    ,88, Large
+ S24_3191   , Classic Cars    ,85, Small
+ S24_3191   , Classic Cars    ,85, Medium
+ S24_3371   , Classic Cars    ,61, Small
+ S24_3371   , Classic Cars    ,61, Medium
+ S24_3420   , Vintage Cars    ,65, Small
+ S24_3420   , Vintage Cars    ,65, Medium
+ S24_3432   , Classic Cars    ,107, Medium
+ S24_3432   , Classic Cars    ,107, Small
+ S24_3816   , Vintage Cars    ,83, Medium
+ S24_3816   , Vintage Cars    ,83, Small
+ S24_3856   , Classic Cars    ,140, Medium
+ S24_3856   , Classic Cars    ,140, Small
+ S24_3856   , Classic Cars    ,140, Large
+ S24_3949   , Planes          ,68, Medium
+ S24_3949   , Planes          ,68, Small
+ S24_3969   , Vintage Cars    ,41, Small
+ S24_3969   , Vintage Cars    ,41, Medium
+ S24_4048   , Classic Cars    ,118, Small
+ S24_4048   , Classic Cars    ,118, Medium
+ S24_4258   , Vintage Cars    ,97, Small
+ S24_4258   , Vintage Cars    ,97, Medium
+ S24_4278   , Planes          ,72, Small
+ S24_4278   , Planes          ,72, Medium
+ S24_4278   , Planes          ,72, Large
+ S24_4620   , Classic Cars    ,80, Small
+ S24_4620   , Classic Cars    ,80, Medium
+ S32_1268   , Trucks and Buses,96, Medium
+ S32_1268   , Trucks and Buses,96, Small
+ S32_1374   , Motorcycles     ,99, Small
+ S32_1374   , Motorcycles     ,99, Medium
+ S32_2206   , Motorcycles     ,40, Small
+ S32_2206   , Motorcycles     ,40, Medium
+ S32_2509   , Trucks and Buses,54, Small
+ S32_2509   , Trucks and Buses,54, Medium
+ S32_2509   , Trucks and Buses,54, Large
+ S32_3207   , Trains          ,62, Medium
+ S32_3207   , Trains          ,62, Small
+ S32_3522   , Trucks and Buses,64, Medium
+ S32_3522   , Trucks and Buses,64, Small
+ S32_3522   , Trucks and Buses,64, Large
+ S32_4289   , Vintage Cars    ,68, Small
+ S32_4289   , Vintage Cars    ,68, Medium
+ S32_4485   , Motorcycles     ,102, Medium
+ S32_4485   , Motorcycles     ,102, Small
+ S50_1341   , Vintage Cars    ,43, Small
+ S50_1341   , Vintage Cars    ,43, Medium
+ S50_1392   , Trucks and Buses,115, Medium
+ S50_1392   , Trucks and Buses,115, Small
+ S50_1514   , Trains          ,58, Small
+ S50_1514   , Trains          ,58, Medium
+ S50_1514   , Trains          ,58, Large
+ S50_4713   , Motorcycles     ,81, Small
+ S50_4713   , Motorcycles     ,81, Medium
+ S700_1138  , Ships           ,66, Small
+ S700_1138  , Ships           ,66, Medium
+ S700_1691  , Planes          ,91, Medium
+ S700_1691  , Planes          ,91, Small
+ S700_1691  , Planes          ,91, Large
+ S700_1938  , Ships           ,86, Small
+ S700_1938  , Ships           ,86, Medium
+ S700_2047  , Ships           ,90, Medium
+ S700_2047  , Ships           ,90, Small
+ S700_2466  , Planes          ,99, Medium
+ S700_2466  , Planes          ,99, Small
+ S700_2466  , Planes          ,99, Large
+ S700_2610  , Ships           ,72, Small
+ S700_2610  , Ships           ,72, Medium
+ S700_2824  , Classic Cars    ,101, Medium
+ S700_2824  , Classic Cars    ,101, Small
+ S700_2824  , Classic Cars    ,101, Large
+ S700_2834  , Planes          ,118, Medium
+ S700_2834  , Planes          ,118, Small
+ S700_2834  , Planes          ,118, Large
+ S700_3167  , Planes          ,80, Medium
+ S700_3167  , Planes          ,80, Small
+ S700_3167  , Planes          ,80, Large
+ S700_3505  , Ships           ,100, Medium
+ S700_3505  , Ships           ,100, Small
+ S700_3962  , Ships           ,99, Small
+ S700_3962  , Ships           ,99, Medium
+ S700_4002  , Planes          ,74, Small
+ S700_4002  , Planes          ,74, Medium
+ S72_1253   , Planes          ,49, Small
+ S72_1253   , Planes          ,49, Medium
+ S72_3212   , Ships           ,54, Small
+ S72_3212   , Ships           ,54, Medium
