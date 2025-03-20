@@ -1,0 +1,479 @@
+ORDERNUMBER,ORDERDATE,SALES,STATUS,QTR_ID,MONTH_ID,YEAR_ID,ORDERLINENUMBER,QUANTITYORDERED,PRICEEACH,PRODUCTCODE,CUSTOMERNAME
+10375, 2/3/2005 0:00  ,733.11, Shipped   ,1,2,2005,12,21,34.91, S10_1678   , La Rochelle Gifts                   
+10388, 3/3/2005 0:00  ,3207.12, Shipped   ,1,3,2005,4,42,76.36, S10_1678   , FunGiftIdeas.com                    
+10403, 4/8/2005 0:00  ,2434.56, Shipped   ,2,4,2005,7,24,100.0, S10_1678   ," ""UK Collectables Ltd.""             "
+10417, 5/13/2005 0:00 ,7516.08, Disputed  ,2,5,2005,2,66,100.0, S10_1678   , Euro Shopping Channel               
+10369, 1/20/2005 0:00 ,4514.92, Shipped   ,1,1,2005,2,41,100.0, S10_1949   , Collectables For Less Inc.          
+10381, 2/17/2005 0:00 ,8254.8, Shipped   ,1,2,2005,3,36,100.0, S10_1949   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,2416.56, Shipped   ,1,3,2005,4,24,100.0, S10_1949   ," ""Anna's Decorations Ltd""           "
+10411, 5/1/2005 0:00  ,4140.23, Shipped   ,2,5,2005,9,23,100.0, S10_1949   , Quebec Home Shopping Network        
+10424, 5/31/2005 0:00 ,12001.0, In Process,2,5,2005,6,50,100.0, S10_1949   , Euro Shopping Channel               
+10374, 2/2/2005 0:00  ,5288.01, Shipped   ,1,2,2005,5,39,100.0, S10_2016   ," ""Australian Gift Network Co""       "
+10388, 3/3/2005 0:00  ,2225.5, Shipped   ,1,3,2005,5,50,44.51, S10_2016   , FunGiftIdeas.com                    
+10402, 4/7/2005 0:00  ,5833.8, Shipped   ,2,4,2005,1,45,100.0, S10_2016   , Auto Canal Petit                    
+10417, 5/13/2005 0:00 ,5887.35, Disputed  ,2,5,2005,5,45,100.0, S10_2016   , Euro Shopping Channel               
+10362, 1/5/2005 0:00  ,3664.1, Shipped   ,1,1,2005,4,22,100.0, S10_4698   , Technics Stores Inc.                
+10374, 2/2/2005 0:00  ,3834.38, Shipped   ,1,2,2005,1,22,100.0, S10_4698   ," ""Australian Gift Network Co""       "
+10388, 3/3/2005 0:00  ,1822.17, Shipped   ,1,3,2005,7,21,86.77, S10_4698   , FunGiftIdeas.com                    
+10403, 4/8/2005 0:00  ,11886.6, Shipped   ,2,4,2005,9,66,100.0, S10_4698   ," ""UK Collectables Ltd.""             "
+10417, 5/13/2005 0:00 ,9218.16, Disputed  ,2,5,2005,4,56,100.0, S10_4698   , Euro Shopping Channel               
+10373, 1/31/2005 0:00 ,4046.25, Shipped   ,1,1,2005,3,39,100.0, S10_4757   ," ""Oulu Toy Supplies Inc.""           "
+10384, 2/23/2005 0:00 ,4846.7, Shipped   ,1,2,2005,4,34,100.0, S10_4757   , Corporate Gift Ideas Co.            
+10395, 3/17/2005 0:00 ,3370.56, Shipped   ,1,3,2005,2,32,100.0, S10_4757   , Lyon Souveniers                     
+10400, 4/1/2005 0:00  ,9661.44, Shipped   ,2,4,2005,9,64,100.0, S10_4757   , The Sharp Gifts Warehouse           
+10414, 5/6/2005 0:00  ,2764.88, On Hold   ,2,5,2005,3,19,100.0, S10_4757   , Gifts4AllAges.com                   
+10370, 1/20/2005 0:00 ,2297.05, Shipped   ,1,1,2005,4,35,65.63, S10_4962   ," ""Anna's Decorations Ltd""           "
+10381, 2/17/2005 0:00 ,6231.54, Shipped   ,1,2,2005,6,37,100.0, S10_4962   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,1735.3, Shipped   ,1,3,2005,7,37,46.9, S10_4962   ," ""Anna's Decorations Ltd""           "
+10411, 5/1/2005 0:00  ,4427.73, Shipped   ,2,5,2005,2,27,100.0, S10_4962   , Quebec Home Shopping Network        
+10425, 5/31/2005 0:00 ,5894.94, In Process,2,5,2005,12,38,100.0, S10_4962   , La Rochelle Gifts                   
+10363, 1/6/2005 0:00  ,2817.87, Shipped   ,1,1,2005,3,33,85.39, S12_1099   , Suominen Souveniers                 
+10375, 2/3/2005 0:00  ,3420.0, Shipped   ,1,2,2005,7,45,76.0, S12_1099   , La Rochelle Gifts                   
+10389, 3/3/2005 0:00  ,2575.04, Shipped   ,1,3,2005,4,26,99.04, S12_1099   , Scandinavian Gift Ideas             
+10419, 5/17/2005 0:00 ,1961.28, Shipped   ,2,5,2005,13,12,100.0, S12_1099   , Salzburg Collectables               
+10371, 1/23/2005 0:00 ,3560.64, Shipped   ,1,1,2005,6,32,100.0, S12_1108   , Mini Gifts Distributors Ltd.        
+10382, 2/17/2005 0:00 ,3823.64, Shipped   ,1,2,2005,10,34,100.0, S12_1108   , Mini Gifts Distributors Ltd.        
+10395, 3/17/2005 0:00 ,2280.96, Shipped   ,1,3,2005,1,33,69.12, S12_1108   , Lyon Souveniers                     
+10413, 5/5/2005 0:00  ,8677.8, Shipped   ,2,5,2005,2,36,100.0, S12_1108   , Gift Depot Inc.                     
+10370, 1/20/2005 0:00 ,8470.14, Shipped   ,1,1,2005,8,49,100.0, S12_1666   ," ""Anna's Decorations Ltd""           "
+10381, 2/17/2005 0:00 ,2952.0, Shipped   ,1,2,2005,1,20,100.0, S12_1666   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,2464.8, Shipped   ,1,3,2005,9,39,63.2, S12_1666   ," ""Anna's Decorations Ltd""           "
+10411, 5/1/2005 0:00  ,6232.0, Shipped   ,2,5,2005,6,40,100.0, S12_1666   , Quebec Home Shopping Network        
+10424, 5/31/2005 0:00 ,7969.36, In Process,2,5,2005,3,49,100.0, S12_1666   , Euro Shopping Channel               
+10362, 1/5/2005 0:00  ,3877.06, Shipped   ,1,1,2005,1,22,100.0, S12_2823   , Technics Stores Inc.                
+10375, 2/3/2005 0:00  ,3867.08, Shipped   ,1,2,2005,13,49,78.92, S12_2823   , La Rochelle Gifts                   
+10388, 3/3/2005 0:00  ,5951.44, Shipped   ,1,3,2005,6,44,100.0, S12_2823   , FunGiftIdeas.com                    
+10403, 4/8/2005 0:00  ,8648.64, Shipped   ,2,4,2005,6,66,100.0, S12_2823   ," ""UK Collectables Ltd.""             "
+10417, 5/13/2005 0:00 ,3447.78, Disputed  ,2,5,2005,1,21,100.0, S12_2823   , Euro Shopping Channel               
+10372, 1/26/2005 0:00 ,5862.0, Shipped   ,1,1,2005,4,40,100.0, S12_3148   ," ""Tokyo Collectables Ltd""           "
+10382, 2/17/2005 0:00 ,4071.85, Shipped   ,1,2,2005,11,37,100.0, S12_3148   , Mini Gifts Distributors Ltd.        
+10413, 5/5/2005 0:00  ,8236.75, Shipped   ,2,5,2005,3,47,100.0, S12_3148   , Gift Depot Inc.                     
+10363, 1/6/2005 0:00  ,3288.82, Shipped   ,1,1,2005,4,34,96.73, S12_3380   , Suominen Souveniers                 
+10376, 2/8/2005 0:00  ,3987.2, Shipped   ,1,2,2005,1,35,100.0, S12_3380   , Boards & Toys Co.                   
+10389, 3/3/2005 0:00  ,1809.5, Shipped   ,1,3,2005,6,25,72.38, S12_3380   , Scandinavian Gift Ideas             
+10419, 5/17/2005 0:00 ,1092.2, Shipped   ,2,5,2005,11,10,100.0, S12_3380   , Salzburg Collectables               
+10372, 1/26/2005 0:00 ,5941.5, Shipped   ,1,1,2005,1,34,100.0, S12_3891   ," ""Tokyo Collectables Ltd""           "
+10382, 2/17/2005 0:00 ,3241.9, Shipped   ,1,2,2005,12,34,95.35, S12_3891   , Mini Gifts Distributors Ltd.        
+10396, 3/23/2005 0:00 ,6109.29, Shipped   ,1,3,2005,3,33,100.0, S12_3891   , Mini Gifts Distributors Ltd.        
+10413, 5/5/2005 0:00  ,3387.78, Shipped   ,2,5,2005,1,22,100.0, S12_3891   , Gift Depot Inc.                     
+10363, 1/6/2005 0:00  ,2775.08, Shipped   ,1,1,2005,5,34,81.62, S12_3990   , Suominen Souveniers                 
+10377, 2/9/2005 0:00  ,1627.92, Shipped   ,1,2,2005,5,24,67.83, S12_3990   ," ""Toys of Finland Co.""              "
+10389, 3/3/2005 0:00  ,2529.36, Shipped   ,1,3,2005,7,36,70.26, S12_3990   , Scandinavian Gift Ideas             
+10419, 5/17/2005 0:00 ,3065.78, Shipped   ,2,5,2005,14,34,90.17, S12_3990   , Salzburg Collectables               
+10371, 1/23/2005 0:00 ,1749.79, Shipped   ,1,1,2005,4,49,35.71, S12_4473   , Mini Gifts Distributors Ltd.        
+10382, 2/17/2005 0:00 ,2130.56, Shipped   ,1,2,2005,13,32,66.58, S12_4473   , Mini Gifts Distributors Ltd.        
+10412, 5/3/2005 0:00  ,5951.34, Shipped   ,2,5,2005,5,54,100.0, S12_4473   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,4692.6, In Process,2,5,2005,4,33,100.0, S12_4473   , La Rochelle Gifts                   
+10363, 1/6/2005 0:00  ,4068.7, Shipped   ,1,1,2005,6,46,88.45, S12_4675   , Suominen Souveniers                 
+10377, 2/9/2005 0:00  ,5182.0, Shipped   ,1,2,2005,1,50,100.0, S12_4675   ," ""Toys of Finland Co.""              "
+10389, 3/3/2005 0:00  ,5243.79, Shipped   ,1,3,2005,8,47,100.0, S12_4675   , Scandinavian Gift Ideas             
+10405, 4/14/2005 0:00 ,9048.16, Shipped   ,2,4,2005,5,97,93.28, S12_4675   , Mini Caravy                         
+10419, 5/17/2005 0:00 ,3832.64, Shipped   ,2,5,2005,10,32,100.0, S12_4675   , Salzburg Collectables               
+10370, 1/20/2005 0:00 ,3911.49, Shipped   ,1,1,2005,1,27,100.0, S18_1097   ," ""Anna's Decorations Ltd""           "
+10381, 2/17/2005 0:00 ,4704.0, Shipped   ,1,2,2005,2,48,98.0, S18_1097   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,2467.9, Shipped   ,1,3,2005,10,29,85.1, S18_1097   ," ""Anna's Decorations Ltd""           "
+10411, 5/1/2005 0:00  ,3213.0, Shipped   ,2,5,2005,8,27,100.0, S18_1097   , Quebec Home Shopping Network        
+10424, 5/31/2005 0:00 ,7182.0, In Process,2,5,2005,5,54,100.0, S18_1097   , Euro Shopping Channel               
+10365, 1/7/2005 0:00  ,2611.8, Shipped   ,1,1,2005,1,30,87.06, S18_1129   , Mini Creations Ltd.                 
+10377, 2/9/2005 0:00  ,5895.05, Shipped   ,1,2,2005,2,35,100.0, S18_1129   ," ""Toys of Finland Co.""              "
+10390, 3/4/2005 0:00  ,3375.72, Shipped   ,1,3,2005,14,36,93.77, S18_1129   , Mini Gifts Distributors Ltd.        
+10406, 4/15/2005 0:00 ,8374.69, Disputed  ,2,4,2005,3,61,100.0, S18_1129   , Danish Wholesale Imports            
+10419, 5/17/2005 0:00 ,4464.24, Shipped   ,2,5,2005,5,38,100.0, S18_1129   , Salzburg Collectables               
+10369, 1/20/2005 0:00 ,9240.44, Shipped   ,1,1,2005,8,44,100.0, S18_1342   , Collectables For Less Inc.          
+10380, 2/16/2005 0:00 ,2515.32, Shipped   ,1,2,2005,13,27,93.16, S18_1342   , Euro Shopping Channel               
+10391, 3/9/2005 0:00  ,5548.9, Shipped   ,1,3,2005,2,35,100.0, S18_1342   ," ""Anna's Decorations Ltd""           "
+10422, 5/30/2005 0:00 ,4873.05, In Process,2,5,2005,2,51,95.55, S18_1342   , Diecast Classics Inc.               
+10369, 1/20/2005 0:00 ,3156.16, Shipped   ,1,1,2005,7,32,98.63, S18_1367   , Collectables For Less Inc.          
+10381, 2/17/2005 0:00 ,1320.75, Shipped   ,1,2,2005,9,25,52.83, S18_1367   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,4998.0, Shipped   ,1,3,2005,3,42,100.0, S18_1367   ," ""Anna's Decorations Ltd""           "
+10422, 5/30/2005 0:00 ,1293.75, In Process,2,5,2005,1,25,51.75, S18_1367   , Diecast Classics Inc.               
+10367, 1/12/2005 0:00 ,2758.7, Resolved  ,1,1,2005,1,49,56.3, S18_1589   , Toys4GrownUps.com                   
+10378, 2/10/2005 0:00 ,1449.76, Shipped   ,1,2,2005,5,34,42.64, S18_1589   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,7048.14, On Hold   ,2,4,2005,11,59,100.0, S18_1589   , The Sharp Gifts Warehouse           
+10419, 5/17/2005 0:00 ,5202.94, Shipped   ,2,5,2005,1,37,100.0, S18_1589   , Salzburg Collectables               
+10373, 1/31/2005 0:00 ,1611.4, Shipped   ,1,1,2005,4,28,57.55, S18_1662   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,1364.25, Resolved  ,1,3,2005,7,25,54.57, S18_1662   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,4215.09, Shipped   ,1,3,2005,11,33,100.0, S18_1662   , Reims Collectables                  
+10400, 4/1/2005 0:00  ,6433.82, Shipped   ,2,4,2005,1,34,100.0, S18_1662   , The Sharp Gifts Warehouse           
+10416, 5/10/2005 0:00 ,4352.16, Shipped   ,2,5,2005,14,24,100.0, S18_1662   , L'ordine Souveniers                 
+10367, 1/12/2005 0:00 ,4703.81, Resolved  ,1,1,2005,3,37,100.0, S18_1749   , Toys4GrownUps.com                   
+10379, 2/10/2005 0:00 ,5399.55, Shipped   ,1,2,2005,2,39,100.0, S18_1749   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,14082.8, On Hold   ,2,4,2005,2,76,100.0, S18_1749   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,5283.6, In Process,2,5,2005,5,37,100.0, S18_1749   , Souveniers And Things Co.           
+10363, 1/6/2005 0:00  ,3686.54, Shipped   ,1,1,2005,7,22,100.0, S18_1889   , Suominen Souveniers                 
+10377, 2/9/2005 0:00  ,2100.56, Shipped   ,1,2,2005,4,31,67.76, S18_1889   ," ""Toys of Finland Co.""              "
+10389, 3/3/2005 0:00  ,3881.78, Shipped   ,1,3,2005,3,49,79.22, S18_1889   , Scandinavian Gift Ideas             
+10405, 4/14/2005 0:00 ,4509.12, Shipped   ,2,4,2005,4,61,73.92, S18_1889   , Mini Caravy                         
+10419, 5/17/2005 0:00 ,3273.27, Shipped   ,2,5,2005,9,39,83.93, S18_1889   , Salzburg Collectables               
+10366, 1/10/2005 0:00 ,4207.84, Shipped   ,1,1,2005,3,34,100.0, S18_1984   , Royale Belge                        
+10377, 2/9/2005 0:00  ,4352.76, Shipped   ,1,2,2005,6,36,100.0, S18_1984   ," ""Toys of Finland Co.""              "
+10390, 3/4/2005 0:00  ,1463.7, Shipped   ,1,3,2005,15,34,43.05, S18_1984   , Mini Gifts Distributors Ltd.        
+10406, 4/15/2005 0:00 ,7169.28, Disputed  ,2,4,2005,2,48,100.0, S18_1984   , Danish Wholesale Imports            
+10419, 5/17/2005 0:00 ,4594.76, Shipped   ,2,5,2005,4,34,100.0, S18_1984   , Salzburg Collectables               
+10371, 1/23/2005 0:00 ,2602.25, Shipped   ,1,1,2005,7,25,100.0, S18_2238   , Mini Gifts Distributors Ltd.        
+10382, 2/17/2005 0:00 ,2200.0, Shipped   ,1,2,2005,5,25,88.0, S18_2238   , Mini Gifts Distributors Ltd.        
+10412, 5/3/2005 0:00  ,6712.93, Shipped   ,2,5,2005,4,41,100.0, S18_2238   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,5318.04, In Process,2,5,2005,3,28,100.0, S18_2238   , La Rochelle Gifts                   
+10367, 1/12/2005 0:00 ,8884.8, Resolved  ,1,1,2005,4,45,100.0, S18_2248   , Toys4GrownUps.com                   
+10379, 2/10/2005 0:00 ,1331.1, Shipped   ,1,2,2005,1,27,49.3, S18_2248   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,3051.3, On Hold   ,2,4,2005,1,42,72.65, S18_2248   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,2288.52, In Process,2,5,2005,4,36,63.57, S18_2248   , Souveniers And Things Co.           
+10370, 1/20/2005 0:00 ,3949.0, Shipped   ,1,1,2005,5,22,100.0, S18_2319   ," ""Anna's Decorations Ltd""           "
+10383, 2/22/2005 0:00 ,3843.99, Shipped   ,1,2,2005,11,27,100.0, S18_2319   , Euro Shopping Channel               
+10412, 5/3/2005 0:00  ,5498.08, Shipped   ,2,5,2005,8,56,98.18, S18_2319   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,3777.58, In Process,2,5,2005,7,38,99.41, S18_2319   , La Rochelle Gifts                   
+10367, 1/12/2005 0:00 ,4196.07, Resolved  ,1,1,2005,5,27,100.0, S18_2325   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,4931.6, Shipped   ,1,2,2005,10,40,100.0, S18_2325   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,3068.69, Shipped   ,1,3,2005,16,31,98.99, S18_2325   , Mini Gifts Distributors Ltd.        
+10409, 4/23/2005 0:00 ,785.64, Shipped   ,2,4,2005,2,6,100.0, S18_2325   , Handji Gifts& Co                    
+10420, 5/29/2005 0:00 ,4977.0, In Process,2,5,2005,2,45,100.0, S18_2325   , Souveniers And Things Co.           
+10370, 1/20/2005 0:00 ,2130.92, Shipped   ,1,1,2005,7,22,96.86, S18_2432   ," ""Anna's Decorations Ltd""           "
+10381, 2/17/2005 0:00 ,1701.7, Shipped   ,1,2,2005,7,35,48.62, S18_2432   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,1694.0, Shipped   ,1,3,2005,5,44,38.5, S18_2432   ," ""Anna's Decorations Ltd""           "
+10412, 5/3/2005 0:00  ,2913.53, Shipped   ,2,5,2005,11,47,61.99, S18_2432   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,935.18, In Process,2,5,2005,10,19,49.22, S18_2432   , La Rochelle Gifts                   
+10374, 2/2/2005 0:00  ,2909.34, Shipped   ,1,2,2005,2,42,69.27, S18_2581   ," ""Australian Gift Network Co""       "
+10386, 3/1/2005 0:00  ,1570.17, Resolved  ,1,3,2005,18,21,74.77, S18_2581   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,2613.92, Shipped   ,1,3,2005,15,34,76.88, S18_2581   , Reims Collectables                  
+10401, 4/3/2005 0:00  ,3193.26, On Hold   ,2,4,2005,3,42,76.03, S18_2581   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,1482.6, Shipped   ,2,5,2005,4,15,98.84, S18_2581   , L'ordine Souveniers                 
+10362, 1/5/2005 0:00  ,1142.41, Shipped   ,1,1,2005,3,23,49.67, S18_2625   , Technics Stores Inc.                
+10374, 2/2/2005 0:00  ,1172.6, Shipped   ,1,2,2005,4,22,53.3, S18_2625   ," ""Australian Gift Network Co""       "
+10389, 3/3/2005 0:00  ,6981.0, Shipped   ,1,3,2005,5,39,100.0, S18_2625   , Scandinavian Gift Ideas             
+10402, 4/7/2005 0:00  ,3064.6, Shipped   ,2,4,2005,2,55,55.72, S18_2625   , Auto Canal Petit                    
+10417, 5/13/2005 0:00 ,2202.48, Disputed  ,2,5,2005,6,36,61.18, S18_2625   , Euro Shopping Channel               
+10367, 1/12/2005 0:00 ,3033.28, Resolved  ,1,1,2005,7,32,94.79, S18_2795   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,990.78, Shipped   ,1,2,2005,8,21,47.18, S18_2795   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,2030.86, Shipped   ,1,3,2005,7,26,78.11, S18_2795   , Mini Gifts Distributors Ltd.        
+10421, 5/29/2005 0:00 ,5433.75, In Process,2,5,2005,1,35,100.0, S18_2795   , Mini Gifts Distributors Ltd.        
+10366, 1/10/2005 0:00 ,6144.6, Shipped   ,1,1,2005,2,49,100.0, S18_2870   , Royale Belge                        
+10379, 2/10/2005 0:00 ,5127.2, Shipped   ,1,2,2005,5,29,100.0, S18_2870   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,6386.16, On Hold   ,2,4,2005,12,41,100.0, S18_2870   , The Sharp Gifts Warehouse           
+10419, 5/17/2005 0:00 ,7695.6, Shipped   ,2,5,2005,2,55,100.0, S18_2870   , Salzburg Collectables               
+10369, 1/20/2005 0:00 ,4581.36, Shipped   ,1,1,2005,1,42,100.0, S18_2949   , Collectables For Less Inc.          
+10381, 2/17/2005 0:00 ,4319.76, Shipped   ,1,2,2005,8,41,100.0, S18_2949   , Corporate Gift Ideas Co.            
+10391, 3/9/2005 0:00  ,1448.0, Shipped   ,1,3,2005,6,32,45.25, S18_2949   ," ""Anna's Decorations Ltd""           "
+10423, 5/30/2005 0:00 ,881.4, In Process,2,5,2005,1,10,88.14, S18_2949   , Petit Auto                          
+10369, 1/20/2005 0:00 ,1237.88, Shipped   ,1,1,2005,6,28,44.21, S18_2957   , Collectables For Less Inc.          
+10381, 2/17/2005 0:00 ,2723.2, Shipped   ,1,2,2005,4,40,68.08, S18_2957   , Corporate Gift Ideas Co.            
+10392, 3/10/2005 0:00 ,2218.52, Shipped   ,1,3,2005,3,37,59.96, S18_2957   , Mini Auto Werke                     
+10423, 5/30/2005 0:00 ,1665.32, In Process,2,5,2005,3,31,53.72, S18_2957   , Petit Auto                          
+10373, 1/31/2005 0:00 ,1908.28, Shipped   ,1,1,2005,5,22,86.74, S18_3029   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,3441.37, Resolved  ,1,3,2005,5,37,93.01, S18_3029   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,2023.28, Shipped   ,1,3,2005,18,28,72.26, S18_3029   , Reims Collectables                  
+10400, 4/1/2005 0:00  ,2245.2, Shipped   ,2,4,2005,7,30,74.84, S18_3029   , The Sharp Gifts Warehouse           
+10414, 5/6/2005 0:00  ,3255.12, On Hold   ,2,5,2005,1,44,73.98, S18_3029   , Gifts4AllAges.com                   
+10369, 1/20/2005 0:00 ,1978.62, Shipped   ,1,1,2005,5,21,94.22, S18_3136   , Collectables For Less Inc.          
+10381, 2/17/2005 0:00 ,4288.2, Shipped   ,1,2,2005,5,35,100.0, S18_3136   , Corporate Gift Ideas Co.            
+10392, 3/10/2005 0:00 ,2520.68, Shipped   ,1,3,2005,2,29,86.92, S18_3136   , Mini Auto Werke                     
+10423, 5/30/2005 0:00 ,1781.22, In Process,2,5,2005,2,21,84.82, S18_3136   , Petit Auto                          
+10372, 1/26/2005 0:00 ,3862.88, Shipped   ,1,1,2005,3,28,100.0, S18_3140   ," ""Tokyo Collectables Ltd""           "
+10383, 2/22/2005 0:00 ,1476.48, Shipped   ,1,2,2005,9,24,61.52, S18_3140   , Euro Shopping Channel               
+10396, 3/23/2005 0:00 ,5273.73, Shipped   ,1,3,2005,2,33,100.0, S18_3140   , Mini Gifts Distributors Ltd.        
+10414, 5/6/2005 0:00  ,4872.03, On Hold   ,2,5,2005,12,41,100.0, S18_3140   , Gifts4AllAges.com                   
+10366, 1/10/2005 0:00 ,6275.72, Shipped   ,1,1,2005,1,34,100.0, S18_3232   , Royale Belge                        
+10370, 1/20/2005 0:00 ,1534.95, Shipped   ,1,1,2005,9,27,56.85, S18_3232   ," ""Anna's Decorations Ltd""           "
+10377, 2/9/2005 0:00  ,7264.53, Shipped   ,1,2,2005,3,39,100.0, S18_3232   ," ""Toys of Finland Co.""              "
+10383, 2/22/2005 0:00 ,6869.05, Shipped   ,1,2,2005,6,47,100.0, S18_3232   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,3353.02, Shipped   ,1,3,2005,5,22,100.0, S18_3232   , Euro Shopping Channel               
+10405, 4/14/2005 0:00 ,8289.05, Shipped   ,2,4,2005,1,55,100.0, S18_3232   , Mini Caravy                         
+10412, 5/3/2005 0:00  ,11887.8, Shipped   ,2,5,2005,9,60,100.0, S18_3232   , Euro Shopping Channel               
+10419, 5/17/2005 0:00 ,5926.9, Shipped   ,2,5,2005,6,35,100.0, S18_3232   , Salzburg Collectables               
+10425, 5/31/2005 0:00 ,3793.16, In Process,2,5,2005,8,28,100.0, S18_3232   , La Rochelle Gifts                   
+10372, 1/26/2005 0:00 ,2117.75, Shipped   ,1,1,2005,5,25,84.71, S18_3259   ," ""Tokyo Collectables Ltd""           "
+10383, 2/22/2005 0:00 ,3340.48, Shipped   ,1,2,2005,12,26,100.0, S18_3259   , Euro Shopping Channel               
+10396, 3/23/2005 0:00 ,2154.0, Shipped   ,1,3,2005,4,24,89.75, S18_3259   , Mini Gifts Distributors Ltd.        
+10414, 5/6/2005 0:00  ,5808.48, On Hold   ,2,5,2005,14,48,100.0, S18_3259   , Gifts4AllAges.com                   
+10363, 1/6/2005 0:00  ,2773.8, Shipped   ,1,1,2005,10,46,60.3, S18_3278   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,2464.0, Shipped   ,1,2,2005,4,22,100.0, S18_3278   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,5491.6, Shipped   ,1,3,2005,9,40,100.0, S18_3278   , Mini Gifts Distributors Ltd.        
+10369, 1/20/2005 0:00 ,3288.6, Shipped   ,1,1,2005,4,45,73.08, S18_3320   , Collectables For Less Inc.          
+10382, 2/17/2005 0:00 ,8935.5, Shipped   ,1,2,2005,7,50,100.0, S18_3320   , Mini Gifts Distributors Ltd.        
+10392, 3/10/2005 0:00 ,4035.96, Shipped   ,1,3,2005,1,36,100.0, S18_3320   , Mini Auto Werke                     
+10423, 5/30/2005 0:00 ,1875.09, In Process,2,5,2005,5,21,89.29, S18_3320   , Petit Auto                          
+10363, 1/6/2005 0:00  ,4142.64, Shipped   ,1,1,2005,11,24,100.0, S18_3482   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,4149.07, Shipped   ,1,2,2005,10,43,96.49, S18_3482   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,7397.0, Shipped   ,1,3,2005,1,50,100.0, S18_3482   , Mini Gifts Distributors Ltd.        
+10367, 1/12/2005 0:00 ,4808.38, Resolved  ,1,1,2005,6,46,100.0, S18_3685   , Toys4GrownUps.com                   
+10379, 2/10/2005 0:00 ,2266.56, Shipped   ,1,2,2005,4,32,70.83, S18_3685   , Euro Shopping Channel               
+10406, 4/15/2005 0:00 ,10468.9, Disputed  ,2,4,2005,1,65,100.0, S18_3685   , Danish Wholesale Imports            
+10419, 5/17/2005 0:00 ,5589.14, Shipped   ,2,5,2005,3,43,100.0, S18_3685   , Salzburg Collectables               
+10363, 1/6/2005 0:00  ,2851.84, Shipped   ,1,1,2005,12,32,89.12, S18_3782   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,4609.64, Shipped   ,1,2,2005,9,28,100.0, S18_3782   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,5079.96, Shipped   ,1,3,2005,2,36,100.0, S18_3782   , Mini Gifts Distributors Ltd.        
+10403, 4/8/2005 0:00  ,1879.92, Shipped   ,2,4,2005,1,36,52.22, S18_3782   ," ""UK Collectables Ltd.""             "
+10373, 1/31/2005 0:00 ,3024.5, Shipped   ,1,1,2005,6,50,60.49, S18_3856   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,1266.1, Resolved  ,1,3,2005,6,22,57.55, S18_3856   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,4811.85, Shipped   ,1,3,2005,17,45,100.0, S18_3856   , Reims Collectables                  
+10400, 4/1/2005 0:00  ,7307.42, Shipped   ,2,4,2005,6,58,100.0, S18_3856   , The Sharp Gifts Warehouse           
+10415, 5/9/2005 0:00  ,6209.25, Disputed  ,2,5,2005,5,51,100.0, S18_3856   ," ""Australian Collectables Ltd""      "
+10372, 1/26/2005 0:00 ,7031.52, Shipped   ,1,1,2005,6,48,100.0, S18_4027   ," ""Tokyo Collectables Ltd""           "
+10383, 2/22/2005 0:00 ,5340.9, Shipped   ,1,2,2005,1,38,100.0, S18_4027   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,6376.58, Shipped   ,1,3,2005,1,37,100.0, S18_4027   , Euro Shopping Channel               
+10413, 5/5/2005 0:00  ,6896.75, Shipped   ,2,5,2005,5,49,100.0, S18_4027   , Gift Depot Inc.                     
+10367, 1/12/2005 0:00 ,2696.96, Resolved  ,1,1,2005,8,43,62.72, S18_4409   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,3376.64, Shipped   ,1,2,2005,1,32,100.0, S18_4409   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,541.14, On Hold   ,2,4,2005,3,6,90.19, S18_4409   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,6134.7, In Process,2,5,2005,6,66,92.95, S18_4409   , Souveniers And Things Co.           
+10372, 1/26/2005 0:00 ,3562.49, Shipped   ,1,1,2005,7,41,86.89, S18_4522   ," ""Tokyo Collectables Ltd""           "
+10383, 2/22/2005 0:00 ,1640.24, Shipped   ,1,2,2005,7,28,58.58, S18_4522   , Euro Shopping Channel               
+10396, 3/23/2005 0:00 ,4739.4, Shipped   ,1,3,2005,5,45,100.0, S18_4522   , Mini Gifts Distributors Ltd.        
+10414, 5/6/2005 0:00  ,1207.68, On Hold   ,2,5,2005,11,16,75.48, S18_4522   , Gifts4AllAges.com                   
+10370, 1/20/2005 0:00 ,1668.37, Shipped   ,1,1,2005,6,29,57.53, S18_4600   ," ""Anna's Decorations Ltd""           "
+10382, 2/17/2005 0:00 ,4890.6, Shipped   ,1,2,2005,1,39,100.0, S18_4600   , Mini Gifts Distributors Ltd.        
+10411, 5/1/2005 0:00  ,5235.72, Shipped   ,2,5,2005,3,46,100.0, S18_4600   , Quebec Home Shopping Network        
+10425, 5/31/2005 0:00 ,4325.16, In Process,2,5,2005,13,38,100.0, S18_4600   , La Rochelle Gifts                   
+10370, 1/20/2005 0:00 ,2730.0, Shipped   ,1,1,2005,2,20,100.0, S18_4668   ," ""Anna's Decorations Ltd""           "
+10382, 2/17/2005 0:00 ,7827.3, Shipped   ,1,2,2005,2,39,100.0, S18_4668   , Mini Gifts Distributors Ltd.        
+10411, 5/1/2005 0:00  ,2095.45, Shipped   ,2,5,2005,7,35,59.87, S18_4668   , Quebec Home Shopping Network        
+10424, 5/31/2005 0:00 ,1556.62, In Process,2,5,2005,4,26,59.87, S18_4668   , Euro Shopping Channel               
+10363, 1/6/2005 0:00  ,1629.04, Shipped   ,1,1,2005,13,28,58.18, S18_4721   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,3289.86, Shipped   ,1,2,2005,8,49,67.14, S18_4721   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,6862.94, Shipped   ,1,3,2005,3,49,100.0, S18_4721   , Mini Gifts Distributors Ltd.        
+10367, 1/12/2005 0:00 ,3751.0, Resolved  ,1,1,2005,9,44,85.25, S18_4933   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,4536.0, Shipped   ,1,2,2005,2,24,100.0, S18_4933   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,4421.34, On Hold   ,2,4,2005,4,66,66.99, S18_4933   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,2078.28, In Process,2,5,2005,7,36,57.73, S18_4933   , Souveniers And Things Co.           
+10367, 1/12/2005 0:00 ,1267.77, Resolved  ,1,1,2005,10,21,60.37, S24_1046   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,3441.82, Shipped   ,1,2,2005,3,34,100.0, S24_1046   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,1987.18, On Hold   ,2,4,2005,8,26,76.43, S24_1046   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,3880.2, In Process,2,5,2005,11,60,64.67, S24_1046   , Souveniers And Things Co.           
+10371, 1/23/2005 0:00 ,2431.75, Shipped   ,1,1,2005,12,25,97.27, S24_1444   , Mini Gifts Distributors Ltd.        
+10383, 2/22/2005 0:00 ,2018.72, Shipped   ,1,2,2005,2,22,91.76, S24_1444   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,1558.99, Shipped   ,1,3,2005,2,31,50.29, S24_1444   , Euro Shopping Channel               
+10412, 5/3/2005 0:00  ,1104.6, Shipped   ,2,5,2005,2,21,52.6, S24_1444   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,2575.1, In Process,2,5,2005,1,55,46.82, S24_1444   , La Rochelle Gifts                   
+10362, 1/5/2005 0:00  ,4846.0, Shipped   ,1,1,2005,2,50,96.92, S24_1578   , Technics Stores Inc.                
+10374, 2/2/2005 0:00  ,4197.1, Shipped   ,1,2,2005,6,38,100.0, S24_1578   ," ""Australian Gift Network Co""       "
+10389, 3/3/2005 0:00  ,4597.65, Shipped   ,1,3,2005,1,45,100.0, S24_1578   , Scandinavian Gift Ideas             
+10403, 4/8/2005 0:00  ,5287.7, Shipped   ,2,4,2005,8,46,100.0, S24_1578   ," ""UK Collectables Ltd.""             "
+10417, 5/13/2005 0:00 ,3550.05, Disputed  ,2,5,2005,3,35,100.0, S24_1578   , Euro Shopping Channel               
+10367, 1/12/2005 0:00 ,1463.0, Resolved  ,1,1,2005,11,38,38.5, S24_1628   , Toys4GrownUps.com                   
+10379, 2/10/2005 0:00 ,3970.56, Shipped   ,1,2,2005,3,32,100.0, S24_1628   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,2576.0, On Hold   ,2,4,2005,10,64,40.25, S24_1628   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,2233.69, In Process,2,5,2005,13,37,60.37, S24_1628   , Souveniers And Things Co.           
+10374, 2/2/2005 0:00  ,4328.6, Shipped   ,1,2,2005,3,46,94.1, S24_1785   ," ""Australian Gift Network Co""       "
+10386, 3/1/2005 0:00  ,1376.43, Resolved  ,1,3,2005,11,33,41.71, S24_1785   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,5552.16, Shipped   ,1,3,2005,16,43,100.0, S24_1785   , Reims Collectables                  
+10401, 4/3/2005 0:00  ,3659.02, On Hold   ,2,4,2005,5,38,96.29, S24_1785   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,4165.61, Shipped   ,2,5,2005,6,47,88.63, S24_1785   , L'ordine Souveniers                 
+10367, 1/12/2005 0:00 ,834.67, Resolved  ,1,1,2005,13,23,36.29, S24_1937   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,2257.92, Shipped   ,1,2,2005,4,32,70.56, S24_1937   , Euro Shopping Channel               
+10391, 3/9/2005 0:00  ,8344.71, Shipped   ,1,3,2005,8,33,100.0, S24_1937   ," ""Anna's Decorations Ltd""           "
+10409, 4/23/2005 0:00 ,1801.94, Shipped   ,2,4,2005,1,61,29.54, S24_1937   , Handji Gifts& Co                    
+10420, 5/29/2005 0:00 ,1209.6, In Process,2,5,2005,1,45,26.88, S24_1937   , Souveniers And Things Co.           
+10363, 1/6/2005 0:00  ,3595.62, Shipped   ,1,1,2005,8,21,100.0, S24_2000   , Suominen Souveniers                 
+10375, 2/3/2005 0:00  ,2443.29, Shipped   ,1,2,2005,9,23,100.0, S24_2000   , La Rochelle Gifts                   
+10389, 3/3/2005 0:00  ,3988.6, Shipped   ,1,3,2005,2,49,81.4, S24_2000   , Scandinavian Gift Ideas             
+10402, 4/7/2005 0:00  ,5168.4, Shipped   ,2,4,2005,3,59,87.6, S24_2000   , Auto Canal Petit                    
+10416, 5/10/2005 0:00 ,2803.2, Shipped   ,2,5,2005,1,32,87.6, S24_2000   , L'ordine Souveniers                 
+10372, 1/26/2005 0:00 ,3910.53, Shipped   ,1,1,2005,8,37,100.0, S24_2011   ," ""Tokyo Collectables Ltd""           "
+10384, 2/23/2005 0:00 ,2255.12, Shipped   ,1,2,2005,3,28,80.54, S24_2011   , Corporate Gift Ideas Co.            
+10396, 3/23/2005 0:00 ,5720.75, Shipped   ,1,3,2005,6,49,100.0, S24_2011   , Mini Gifts Distributors Ltd.        
+10414, 5/6/2005 0:00  ,3335.23, On Hold   ,2,5,2005,10,23,100.0, S24_2011   , Gifts4AllAges.com                   
+10367, 1/12/2005 0:00 ,856.52, Resolved  ,1,1,2005,12,28,30.59, S24_2022   , Toys4GrownUps.com                   
+10380, 2/16/2005 0:00 ,1845.45, Shipped   ,1,2,2005,5,27,68.35, S24_2022   , Euro Shopping Channel               
+10391, 3/9/2005 0:00  ,4042.08, Shipped   ,1,3,2005,1,24,100.0, S24_2022   ," ""Anna's Decorations Ltd""           "
+10421, 5/29/2005 0:00 ,1828.0, In Process,2,5,2005,2,40,45.7, S24_2022   , Mini Gifts Distributors Ltd.        
+10371, 1/23/2005 0:00 ,3449.4, Shipped   ,1,1,2005,5,20,100.0, S24_2300   , Mini Gifts Distributors Ltd.        
+10382, 2/17/2005 0:00 ,2654.4, Shipped   ,1,2,2005,3,20,100.0, S24_2300   , Mini Gifts Distributors Ltd.        
+10412, 5/3/2005 0:00  ,8498.0, Shipped   ,2,5,2005,10,70,100.0, S24_2300   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,5510.54, In Process,2,5,2005,9,49,100.0, S24_2300   , La Rochelle Gifts                   
+10363, 1/6/2005 0:00  ,2632.89, Shipped   ,1,1,2005,14,43,61.23, S24_2360   , Suominen Souveniers                 
+10375, 2/3/2005 0:00  ,2046.0, Shipped   ,1,2,2005,14,20,100.0, S24_2360   , La Rochelle Gifts                   
+10390, 3/4/2005 0:00  ,2279.55, Shipped   ,1,3,2005,4,35,65.13, S24_2360   , Mini Gifts Distributors Ltd.        
+10403, 4/8/2005 0:00  ,2150.55, Shipped   ,2,4,2005,4,27,79.65, S24_2360   ," ""UK Collectables Ltd.""             "
+10368, 1/19/2005 0:00 ,4107.2, Shipped   ,1,1,2005,2,40,100.0, S24_2766   , Mini Gifts Distributors Ltd.        
+10380, 2/16/2005 0:00 ,1350.0, Shipped   ,1,2,2005,6,36,37.5, S24_2766   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,7182.0, On Hold   ,2,4,2005,6,76,94.5, S24_2766   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,3933.93, In Process,2,5,2005,9,39,100.0, S24_2766   , Souveniers And Things Co.           
+10371, 1/23/2005 0:00 ,5545.8, Shipped   ,1,1,2005,8,45,100.0, S24_2840   , Mini Gifts Distributors Ltd.        
+10383, 2/22/2005 0:00 ,6089.6, Shipped   ,1,2,2005,3,40,100.0, S24_2840   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,1789.4, Shipped   ,1,3,2005,6,46,38.9, S24_2840   , Euro Shopping Channel               
+10412, 5/3/2005 0:00  ,1082.1, Shipped   ,2,5,2005,6,30,36.07, S24_2840   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,1030.44, In Process,2,5,2005,5,31,33.24, S24_2840   , La Rochelle Gifts                   
+10373, 1/31/2005 0:00 ,2676.72, Shipped   ,1,1,2005,7,38,70.44, S24_2841   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,2182.44, Resolved  ,1,3,2005,1,39,55.96, S24_2841   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,1611.4, Shipped   ,1,3,2005,3,28,57.55, S24_2841   , Reims Collectables                  
+10400, 4/1/2005 0:00  ,1479.84, Shipped   ,2,4,2005,2,24,61.66, S24_2841   , The Sharp Gifts Warehouse           
+10415, 5/9/2005 0:00  ,1424.22, Disputed  ,2,5,2005,1,21,67.82, S24_2841   ," ""Australian Collectables Ltd""      "
+10368, 1/19/2005 0:00 ,4223.13, Shipped   ,1,1,2005,5,31,100.0, S24_2887   , Mini Gifts Distributors Ltd.        
+10380, 2/16/2005 0:00 ,1596.76, Shipped   ,1,2,2005,7,44,36.29, S24_2887   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,5820.35, On Hold   ,2,4,2005,5,59,98.65, S24_2887   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,5296.5, In Process,2,5,2005,8,55,96.3, S24_2887   , Souveniers And Things Co.           
+10367, 1/12/2005 0:00 ,5018.4, Resolved  ,1,1,2005,2,36,100.0, S24_2972   , Toys4GrownUps.com                   
+10378, 2/10/2005 0:00 ,5856.85, Shipped   ,1,2,2005,7,41,100.0, S24_2972   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,4894.73, Shipped   ,1,3,2005,5,37,100.0, S24_2972   , Mini Gifts Distributors Ltd.        
+10405, 4/14/2005 0:00 ,2094.32, Shipped   ,2,4,2005,2,47,44.56, S24_2972   , Mini Caravy                         
+10419, 5/17/2005 0:00 ,640.05, Shipped   ,2,5,2005,7,15,42.67, S24_2972   , Salzburg Collectables               
+10373, 1/31/2005 0:00 ,1891.56, Shipped   ,1,1,2005,12,33,57.32, S24_3151   ," ""Oulu Toy Supplies Inc.""           "
+10384, 2/23/2005 0:00 ,4208.41, Shipped   ,1,2,2005,2,43,97.87, S24_3151   , Corporate Gift Ideas Co.            
+10396, 3/23/2005 0:00 ,2246.4, Shipped   ,1,3,2005,7,27,83.2, S24_3151   , Mini Gifts Distributors Ltd.        
+10414, 5/6/2005 0:00  ,6107.4, On Hold   ,2,5,2005,5,60,100.0, S24_3151   , Gifts4AllAges.com                   
+10368, 1/19/2005 0:00 ,3662.52, Shipped   ,1,1,2005,1,46,79.62, S24_3191   , Mini Gifts Distributors Ltd.        
+10380, 2/16/2005 0:00 ,3478.64, Shipped   ,1,2,2005,9,44,79.06, S24_3191   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,1057.29, On Hold   ,2,4,2005,7,13,81.33, S24_3191   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,3385.9, In Process,2,5,2005,10,35,96.74, S24_3191   , Souveniers And Things Co.           
+10363, 1/6/2005 0:00  ,2447.76, Shipped   ,1,1,2005,15,21,100.0, S24_3371   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,1910.84, Shipped   ,1,2,2005,6,46,41.54, S24_3371   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,2430.64, Shipped   ,1,3,2005,6,46,52.84, S24_3371   , Mini Gifts Distributors Ltd.        
+10419, 5/17/2005 0:00 ,2896.3, Shipped   ,2,5,2005,12,55,52.66, S24_3371   , Salzburg Collectables               
+10373, 1/31/2005 0:00 ,3036.0, Shipped   ,1,1,2005,11,46,66.0, S24_3420   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,2231.6, Resolved  ,1,3,2005,9,35,63.76, S24_3420   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,2436.78, Shipped   ,1,3,2005,13,34,71.67, S24_3420   , Reims Collectables                  
+10400, 4/1/2005 0:00  ,2173.6, Shipped   ,2,4,2005,3,38,57.2, S24_3420   , The Sharp Gifts Warehouse           
+10415, 5/9/2005 0:00  ,1254.6, Disputed  ,2,5,2005,2,18,69.7, S24_3420   ," ""Australian Collectables Ltd""      "
+10368, 1/19/2005 0:00 ,1991.6, Shipped   ,1,1,2005,4,20,99.58, S24_3432   , Mini Gifts Distributors Ltd.        
+10380, 2/16/2005 0:00 ,3953.18, Shipped   ,1,2,2005,11,34,100.0, S24_3432   , Euro Shopping Channel               
+10407, 4/22/2005 0:00 ,3729.39, On Hold   ,2,4,2005,9,43,86.73, S24_3432   , The Sharp Gifts Warehouse           
+10420, 5/29/2005 0:00 ,2617.16, In Process,2,5,2005,12,26,100.0, S24_3432   , Souveniers And Things Co.           
+10373, 1/31/2005 0:00 ,2394.3, Shipped   ,1,1,2005,10,23,100.0, S24_3816   ," ""Oulu Toy Supplies Inc.""           "
+10385, 2/28/2005 0:00 ,3164.98, Shipped   ,1,2,2005,2,37,85.54, S24_3816   , Mini Gifts Distributors Ltd.        
+10396, 3/23/2005 0:00 ,3351.09, Shipped   ,1,3,2005,8,37,90.57, S24_3816   , Mini Gifts Distributors Ltd.        
+10400, 4/1/2005 0:00  ,3064.32, Shipped   ,2,4,2005,8,42,72.96, S24_3816   , The Sharp Gifts Warehouse           
+10414, 5/6/2005 0:00  ,3891.81, On Hold   ,2,5,2005,2,51,76.31, S24_3816   , Gifts4AllAges.com                   
+10363, 1/6/2005 0:00  ,2931.98, Shipped   ,1,1,2005,1,31,94.58, S24_3856   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,1757.91, Shipped   ,1,2,2005,3,33,53.27, S24_3856   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,6763.05, Shipped   ,1,3,2005,8,45,100.0, S24_3856   , Mini Gifts Distributors Ltd.        
+10405, 4/14/2005 0:00 ,11739.7, Shipped   ,2,4,2005,3,76,100.0, S24_3856   , Mini Caravy                         
+10419, 5/17/2005 0:00 ,9240.0, Shipped   ,2,5,2005,8,70,100.0, S24_3856   , Salzburg Collectables               
+10373, 1/31/2005 0:00 ,2847.0, Shipped   ,1,1,2005,13,39,73.0, S24_3949   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,3006.12, Resolved  ,1,3,2005,12,41,73.32, S24_3949   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,2797.84, Shipped   ,1,3,2005,2,41,68.24, S24_3949   , Reims Collectables                  
+10401, 4/3/2005 0:00  ,3843.2, On Hold   ,2,4,2005,12,64,60.05, S24_3949   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,1351.08, Shipped   ,2,5,2005,13,18,75.06, S24_3949   , L'ordine Souveniers                 
+10368, 1/19/2005 0:00 ,1717.64, Shipped   ,1,1,2005,3,46,37.34, S24_3969   , Mini Gifts Distributors Ltd.        
+10380, 2/16/2005 0:00 ,4086.29, Shipped   ,1,2,2005,12,43,95.03, S24_3969   , Euro Shopping Channel               
+10408, 4/22/2005 0:00 ,553.95, Shipped   ,2,4,2005,1,15,36.93, S24_3969   ," ""Tokyo Collectables Ltd""           "
+10420, 5/29/2005 0:00 ,652.35, In Process,2,5,2005,3,15,43.49, S24_3969   , Souveniers And Things Co.           
+10371, 1/23/2005 0:00 ,1408.96, Shipped   ,1,1,2005,9,28,50.32, S24_4048   , Mini Gifts Distributors Ltd.        
+10383, 2/22/2005 0:00 ,1972.11, Shipped   ,1,2,2005,4,21,93.91, S24_4048   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,5207.75, Shipped   ,1,3,2005,7,37,100.0, S24_4048   , Euro Shopping Channel               
+10412, 5/3/2005 0:00  ,4253.2, Shipped   ,2,5,2005,1,31,100.0, S24_4048   , Euro Shopping Channel               
+10369, 1/20/2005 0:00 ,3476.8, Shipped   ,1,1,2005,3,40,86.92, S24_4258   , Collectables For Less Inc.          
+10382, 2/17/2005 0:00 ,4592.61, Shipped   ,1,2,2005,4,33,100.0, S24_4258   , Mini Gifts Distributors Ltd.        
+10423, 5/30/2005 0:00 ,2208.92, In Process,2,5,2005,4,28,78.89, S24_4258   , Petit Auto                          
+10375, 2/3/2005 0:00  ,10039.6, Shipped   ,1,2,2005,2,43,100.0, S24_4278   , La Rochelle Gifts                   
+10386, 3/1/2005 0:00  ,3167.0, Resolved  ,1,3,2005,8,50,63.34, S24_4278   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,3521.25, Shipped   ,1,3,2005,14,45,78.25, S24_4278   , Reims Collectables                  
+10401, 4/3/2005 0:00  ,4219.28, On Hold   ,2,4,2005,4,52,81.14, S24_4278   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,3581.76, Shipped   ,2,5,2005,5,48,74.62, S24_4278   , L'ordine Souveniers                 
+10363, 1/6/2005 0:00  ,5154.41, Shipped   ,1,1,2005,9,43,100.0, S24_4620   , Suominen Souveniers                 
+10378, 2/10/2005 0:00 ,4894.17, Shipped   ,1,2,2005,2,41,100.0, S24_4620   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,2472.6, Shipped   ,1,3,2005,10,30,82.42, S24_4620   , Mini Gifts Distributors Ltd.        
+10371, 1/23/2005 0:00 ,4044.04, Shipped   ,1,1,2005,1,26,100.0, S32_1268   , Mini Gifts Distributors Ltd.        
+10382, 2/17/2005 0:00 ,2708.42, Shipped   ,1,2,2005,6,26,100.0, S32_1268   , Mini Gifts Distributors Ltd.        
+10411, 5/1/2005 0:00  ,2904.72, Shipped   ,2,5,2005,1,26,100.0, S32_1268   , Quebec Home Shopping Network        
+10425, 5/31/2005 0:00 ,3553.88, In Process,2,5,2005,11,41,86.68, S32_1268   , La Rochelle Gifts                   
+10363, 1/6/2005 0:00  ,6576.5, Shipped   ,1,1,2005,2,50,100.0, S32_1374   , Suominen Souveniers                 
+10375, 2/3/2005 0:00  ,6353.27, Shipped   ,1,2,2005,3,37,100.0, S32_1374   , La Rochelle Gifts                   
+10387, 3/2/2005 0:00  ,4175.6, Shipped   ,1,3,2005,1,44,94.9, S32_1374   ," ""Dragon Souveniers Ltd.""           "
+10401, 4/3/2005 0:00  ,4992.61, On Hold   ,2,4,2005,1,49,100.0, S32_1374   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,4764.6, Shipped   ,2,5,2005,2,45,100.0, S32_1374   , L'ordine Souveniers                 
+10364, 1/6/2005 0:00  ,2317.44, Shipped   ,1,1,2005,1,48,48.28, S32_2206   , Marseille Mini Autos                
+10378, 2/10/2005 0:00 ,3298.4, Shipped   ,1,2,2005,1,40,82.46, S32_2206   , Euro Shopping Channel               
+10390, 3/4/2005 0:00  ,1826.96, Shipped   ,1,3,2005,11,41,44.56, S32_2206   , Mini Gifts Distributors Ltd.        
+10403, 4/8/2005 0:00  ,1206.9, Shipped   ,2,4,2005,2,30,40.23, S32_2206   ," ""UK Collectables Ltd.""             "
+10371, 1/23/2005 0:00 ,1329.4, Shipped   ,1,1,2005,2,20,66.47, S32_2509   , Mini Gifts Distributors Ltd.        
+10383, 2/22/2005 0:00 ,1701.76, Shipped   ,1,2,2005,5,32,53.18, S32_2509   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,2259.72, Shipped   ,1,3,2005,3,36,62.77, S32_2509   , Euro Shopping Channel               
+10412, 5/3/2005 0:00  ,925.3, Shipped   ,2,5,2005,7,19,48.7, S32_2509   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,482.13, In Process,2,5,2005,6,11,43.83, S32_2509   , La Rochelle Gifts                   
+10371, 1/23/2005 0:00 ,2986.5, Shipped   ,1,1,2005,11,30,99.55, S32_3207   , Mini Gifts Distributors Ltd.        
+10383, 2/22/2005 0:00 ,1587.08, Shipped   ,1,2,2005,8,44,36.07, S32_3207   , Euro Shopping Channel               
+10394, 3/15/2005 0:00 ,1808.4, Shipped   ,1,3,2005,4,30,60.28, S32_3207   , Euro Shopping Channel               
+10413, 5/5/2005 0:00  ,1193.04, Shipped   ,2,5,2005,6,24,49.71, S32_3207   , Gift Depot Inc.                     
+10370, 1/20/2005 0:00 ,3160.25, Shipped   ,1,1,2005,3,25,100.0, S32_3522   ," ""Anna's Decorations Ltd""           "
+10382, 2/17/2005 0:00 ,6799.68, Shipped   ,1,2,2005,8,48,100.0, S32_3522   , Mini Gifts Distributors Ltd.        
+10411, 5/1/2005 0:00  ,1867.32, Shipped   ,2,5,2005,5,27,69.16, S32_3522   , Quebec Home Shopping Network        
+10424, 5/31/2005 0:00 ,2702.04, In Process,2,5,2005,2,44,61.41, S32_3522   , Euro Shopping Channel               
+10375, 2/3/2005 0:00  ,3619.44, Shipped   ,1,2,2005,4,44,82.26, S32_4289   , La Rochelle Gifts                   
+10388, 3/3/2005 0:00  ,3918.95, Shipped   ,1,3,2005,8,35,100.0, S32_4289   , FunGiftIdeas.com                    
+10398, 3/30/2005 0:00 ,1483.02, Shipped   ,1,3,2005,4,22,67.41, S32_4289   , Reims Collectables                  
+10401, 4/3/2005 0:00  ,4819.26, On Hold   ,2,4,2005,6,62,77.73, S32_4289   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,1591.72, Shipped   ,2,5,2005,7,26,61.22, S32_4289   , L'ordine Souveniers                 
+10365, 1/7/2005 0:00  ,3425.18, Shipped   ,1,1,2005,3,22,100.0, S32_4485   , Mini Creations Ltd.                 
+10375, 2/3/2005 0:00  ,4701.88, Shipped   ,1,2,2005,15,41,100.0, S32_4485   , La Rochelle Gifts                   
+10390, 3/4/2005 0:00  ,2204.1, Shipped   ,1,3,2005,12,45,48.98, S32_4485   , Mini Gifts Distributors Ltd.        
+10403, 4/8/2005 0:00  ,5189.4, Shipped   ,2,4,2005,5,45,100.0, S32_4485   ," ""UK Collectables Ltd.""             "
+10375, 2/3/2005 0:00  ,3224.2, Shipped   ,1,2,2005,5,49,65.8, S50_1341   , La Rochelle Gifts                   
+10388, 3/3/2005 0:00  ,3211.38, Shipped   ,1,3,2005,1,27,100.0, S50_1341   , FunGiftIdeas.com                    
+10398, 3/30/2005 0:00 ,1796.34, Shipped   ,1,3,2005,5,49,36.66, S50_1341   , Reims Collectables                  
+10401, 4/3/2005 0:00  ,1979.6, On Hold   ,2,4,2005,7,56,35.35, S50_1341   , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,1921.41, Shipped   ,2,5,2005,8,37,51.93, S50_1341   , L'ordine Souveniers                 
+10371, 1/23/2005 0:00 ,2714.4, Shipped   ,1,1,2005,10,48,56.55, S50_1392   , Mini Gifts Distributors Ltd.        
+10383, 2/22/2005 0:00 ,3087.05, Shipped   ,1,2,2005,13,29,100.0, S50_1392   , Euro Shopping Channel               
+10395, 3/17/2005 0:00 ,5692.96, Shipped   ,1,3,2005,4,46,100.0, S50_1392   , Lyon Souveniers                     
+10412, 5/3/2005 0:00  ,3460.86, Shipped   ,2,5,2005,3,26,100.0, S50_1392   , Euro Shopping Channel               
+10425, 5/31/2005 0:00 ,1895.94, In Process,2,5,2005,2,18,100.0, S50_1392   , La Rochelle Gifts                   
+10372, 1/26/2005 0:00 ,1405.92, Shipped   ,1,1,2005,9,24,58.58, S50_1514   ," ""Tokyo Collectables Ltd""           "
+10383, 2/22/2005 0:00 ,2282.28, Shipped   ,1,2,2005,10,38,60.06, S50_1514   , Euro Shopping Channel               
+10395, 3/17/2005 0:00 ,8977.05, Shipped   ,1,3,2005,3,45,100.0, S50_1514   , Lyon Souveniers                     
+10413, 5/5/2005 0:00  ,3256.35, Shipped   ,2,5,2005,4,51,63.85, S50_1514   , Gift Depot Inc.                     
+10365, 1/7/2005 0:00  ,4984.32, Shipped   ,1,1,2005,2,44,100.0, S50_4713   , Mini Creations Ltd.                 
+10375, 2/3/2005 0:00  ,5406.66, Shipped   ,1,2,2005,8,49,100.0, S50_4713   , La Rochelle Gifts                   
+10390, 3/4/2005 0:00  ,3491.18, Shipped   ,1,3,2005,13,22,100.0, S50_4713   , Mini Gifts Distributors Ltd.        
+10403, 4/8/2005 0:00  ,2118.54, Shipped   ,2,4,2005,3,31,68.34, S50_4713   ," ""UK Collectables Ltd.""             "
+10373, 1/31/2005 0:00 ,4627.92, Shipped   ,1,1,2005,14,44,100.0, S700_1138  ," ""Oulu Toy Supplies Inc.""           "
+10385, 2/28/2005 0:00 ,1933.5, Shipped   ,1,2,2005,1,25,77.34, S700_1138  , Mini Gifts Distributors Ltd.        
+10396, 3/23/2005 0:00 ,2600.13, Shipped   ,1,3,2005,1,39,66.67, S700_1138  , Mini Gifts Distributors Ltd.        
+10414, 5/6/2005 0:00  ,2639.58, On Hold   ,2,5,2005,6,37,71.34, S700_1138  , Gifts4AllAges.com                   
+10375, 2/3/2005 0:00  ,3029.19, Shipped   ,1,2,2005,6,37,81.87, S700_1691  , La Rochelle Gifts                   
+10388, 3/3/2005 0:00  ,10066.6, Shipped   ,1,3,2005,2,46,100.0, S700_1691  , FunGiftIdeas.com                    
+10398, 3/30/2005 0:00 ,4121.43, Shipped   ,1,3,2005,6,47,87.69, S700_1691  , Reims Collectables                  
+10401, 4/3/2005 0:00  ,1135.31, On Hold   ,2,4,2005,8,11,100.0, S700_1691  , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,2100.82, Shipped   ,2,5,2005,9,23,91.34, S700_1691  , L'ordine Souveniers                 
+10372, 1/26/2005 0:00 ,4496.8, Shipped   ,1,1,2005,2,44,100.0, S700_1938  ," ""Tokyo Collectables Ltd""           "
+10384, 2/23/2005 0:00 ,6397.44, Shipped   ,1,2,2005,1,49,100.0, S700_1938  , Corporate Gift Ideas Co.            
+10397, 3/28/2005 0:00 ,2577.6, Shipped   ,1,3,2005,5,32,80.55, S700_1938  , Alpha Cognac                        
+10414, 5/6/2005 0:00  ,3533.62, On Hold   ,2,5,2005,13,34,100.0, S700_1938  , Gifts4AllAges.com                   
+10373, 1/31/2005 0:00 ,2701.12, Shipped   ,1,1,2005,15,32,84.41, S700_2047  ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,2487.04, Resolved  ,1,3,2005,13,29,85.76, S700_2047  , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,3910.32, Shipped   ,1,3,2005,7,36,100.0, S700_2047  , Reims Collectables                  
+10400, 4/1/2005 0:00  ,4038.8, Shipped   ,2,4,2005,5,46,87.8, S700_2047  , The Sharp Gifts Warehouse           
+10415, 5/9/2005 0:00  ,3070.4, Disputed  ,2,5,2005,4,32,95.95, S700_2047  ," ""Australian Collectables Ltd""      "
+10375, 2/3/2005 0:00  ,3856.71, Shipped   ,1,2,2005,1,33,100.0, S700_2466  , La Rochelle Gifts                   
+10386, 3/1/2005 0:00  ,3102.08, Resolved  ,1,3,2005,14,37,83.84, S700_2466  , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,1908.72, Shipped   ,1,3,2005,8,22,86.76, S700_2466  , Reims Collectables                  
+10401, 4/3/2005 0:00  ,7543.75, On Hold   ,2,4,2005,10,85,88.75, S700_2466  , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,2457.18, Shipped   ,2,5,2005,11,22,100.0, S700_2466  , L'ordine Souveniers                 
+10373, 1/31/2005 0:00 ,2883.53, Shipped   ,1,1,2005,16,41,70.33, S700_2610  ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,5017.57, Resolved  ,1,3,2005,10,37,100.0, S700_2610  , Euro Shopping Channel               
+10397, 3/28/2005 0:00 ,1463.0, Shipped   ,1,3,2005,4,22,66.5, S700_2610  , Alpha Cognac                        
+10414, 5/6/2005 0:00  ,2352.59, On Hold   ,2,5,2005,4,31,75.89, S700_2610  , Gifts4AllAges.com                   
+10371, 1/23/2005 0:00 ,4301.34, Shipped   ,1,1,2005,3,34,100.0, S700_2824  , Mini Gifts Distributors Ltd.        
+10382, 2/17/2005 0:00 ,1864.56, Shipped   ,1,2,2005,9,34,54.84, S700_2824  , Mini Gifts Distributors Ltd.        
+10411, 5/1/2005 0:00  ,3576.8, Shipped   ,2,5,2005,4,34,100.0, S700_2824  , Quebec Home Shopping Network        
+10424, 5/31/2005 0:00 ,3722.32, In Process,2,5,2005,1,46,80.92, S700_2824  , Euro Shopping Channel               
+10375, 2/3/2005 0:00  ,1668.25, Shipped   ,1,2,2005,10,25,66.73, S700_2834  , La Rochelle Gifts                   
+10388, 3/3/2005 0:00  ,7154.5, Shipped   ,1,3,2005,3,50,100.0, S700_2834  , FunGiftIdeas.com                    
+10398, 3/30/2005 0:00 ,2810.83, Shipped   ,1,3,2005,9,23,100.0, S700_2834  , Reims Collectables                  
+10401, 4/3/2005 0:00  ,2018.31, On Hold   ,2,4,2005,2,21,96.11, S700_2834  , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,5642.83, Shipped   ,2,5,2005,3,41,100.0, S700_2834  , L'ordine Souveniers                 
+10375, 2/3/2005 0:00  ,5208.72, Shipped   ,1,2,2005,11,44,100.0, S700_3167  , La Rochelle Gifts                   
+10386, 3/1/2005 0:00  ,3018.88, Resolved  ,1,3,2005,17,32,94.34, S700_3167  , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,1902.4, Shipped   ,1,3,2005,10,29,65.6, S700_3167  , Reims Collectables                  
+10401, 4/3/2005 0:00  ,7084.0, On Hold   ,2,4,2005,9,77,92.0, S700_3167  , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,2620.8, Shipped   ,2,5,2005,10,39,67.2, S700_3167  , L'ordine Souveniers                 
+10373, 1/31/2005 0:00 ,3275.56, Shipped   ,1,1,2005,2,34,96.34, S700_3505  ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,4143.6, Resolved  ,1,3,2005,2,45,92.08, S700_3505  , Euro Shopping Channel               
+10397, 3/28/2005 0:00 ,5192.64, Shipped   ,1,3,2005,3,48,100.0, S700_3505  , Alpha Cognac                        
+10414, 5/6/2005 0:00  ,3029.04, On Hold   ,2,5,2005,7,28,100.0, S700_3505  , Gifts4AllAges.com                   
+10373, 1/31/2005 0:00 ,4025.6, Shipped   ,1,1,2005,8,37,100.0, S700_3962  ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,2864.4, Resolved  ,1,3,2005,3,30,95.48, S700_3962  , Euro Shopping Channel               
+10397, 3/28/2005 0:00 ,3789.72, Shipped   ,1,3,2005,2,36,100.0, S700_3962  , Alpha Cognac                        
+10414, 5/6/2005 0:00  ,2439.99, On Hold   ,2,5,2005,8,27,90.37, S700_3962  , Gifts4AllAges.com                   
+10373, 1/31/2005 0:00 ,2502.9, Shipped   ,1,1,2005,17,45,55.62, S700_4002  ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,3801.6, Resolved  ,1,3,2005,15,44,86.4, S700_4002  , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,3144.96, Shipped   ,1,3,2005,12,36,87.36, S700_4002  , Reims Collectables                  
+10401, 4/3/2005 0:00  ,2031.4, On Hold   ,2,4,2005,11,28,72.55, S700_4002  , Tekni Collectables Inc.             
+10416, 5/10/2005 0:00 ,2674.17, Shipped   ,2,5,2005,12,43,62.19, S700_4002  , L'ordine Souveniers                 
+10373, 1/31/2005 0:00 ,1624.25, Shipped   ,1,1,2005,9,25,64.97, S72_1253   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,4357.5, Resolved  ,1,3,2005,16,50,87.15, S72_1253   , Euro Shopping Channel               
+10398, 3/30/2005 0:00 ,1367.48, Shipped   ,1,3,2005,1,34,40.22, S72_1253   , Reims Collectables                  
+10400, 4/1/2005 0:00  ,1122.4, Shipped   ,2,4,2005,4,20,56.12, S72_1253   , The Sharp Gifts Warehouse           
+10415, 5/9/2005 0:00  ,2419.62, Disputed  ,2,5,2005,3,42,57.61, S72_1253   ," ""Australian Collectables Ltd""      "
+10373, 1/31/2005 0:00 ,3978.51, Shipped   ,1,1,2005,1,29,100.0, S72_3212   ," ""Oulu Toy Supplies Inc.""           "
+10386, 3/1/2005 0:00  ,5417.57, Resolved  ,1,3,2005,4,43,100.0, S72_3212   , Euro Shopping Channel               
+10397, 3/28/2005 0:00 ,2116.16, Shipped   ,1,3,2005,1,34,62.24, S72_3212   , Alpha Cognac                        
+10414, 5/6/2005 0:00  ,3079.44, On Hold   ,2,5,2005,9,47,65.52, S72_3212   , Gifts4AllAges.com                   
